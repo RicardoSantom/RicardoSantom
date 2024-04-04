@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicardoSantom
-- 🌱 I’m currently learning CSS3,HTML5,PHP,JavaScript,Java,MySQL,XML,JSON
+- 🌱 I have experience in CSS3,HTML5,PHP,JavaScript,Java,MySQL,Laravel,Bootstrap,XML,JSON
 - 💞️ I’m looking to collaborate on Web developing
 
 <!---
